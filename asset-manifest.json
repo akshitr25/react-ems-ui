@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-ems-ui/static/css/main.db62923b.css",
+    "main.js": "/react-ems-ui/static/js/main.e92d2e5f.js",
+    "static/js/453.87a3f380.chunk.js": "/react-ems-ui/static/js/453.87a3f380.chunk.js",
+    "static/media/logo.svg": "/react-ems-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-ems-ui/index.html",
+    "main.db62923b.css.map": "/react-ems-ui/static/css/main.db62923b.css.map",
+    "main.e92d2e5f.js.map": "/react-ems-ui/static/js/main.e92d2e5f.js.map",
+    "453.87a3f380.chunk.js.map": "/react-ems-ui/static/js/453.87a3f380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.e92d2e5f.js"
+  ]
+}
